@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//:powersystum.github.io/calculater/static/css/main.7c45c9f7.css",
+    "main.js": "/http//:powersystum.github.io/calculater/static/js/main.c678e687.js",
+    "static/js/787.1937f22b.chunk.js": "/http//:powersystum.github.io/calculater/static/js/787.1937f22b.chunk.js",
+    "index.html": "/http//:powersystum.github.io/calculater/index.html",
+    "main.7c45c9f7.css.map": "/http//:powersystum.github.io/calculater/static/css/main.7c45c9f7.css.map",
+    "main.c678e687.js.map": "/http//:powersystum.github.io/calculater/static/js/main.c678e687.js.map",
+    "787.1937f22b.chunk.js.map": "/http//:powersystum.github.io/calculater/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c45c9f7.css",
+    "static/js/main.c678e687.js"
+  ]
+}
