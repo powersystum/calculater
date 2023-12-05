@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//:powersystum.github.io/calculater/static/css/main.7c45c9f7.css",
-    "main.js": "/http//:powersystum.github.io/calculater/static/js/main.c678e687.js",
-    "static/js/787.1937f22b.chunk.js": "/http//:powersystum.github.io/calculater/static/js/787.1937f22b.chunk.js",
-    "index.html": "/http//:powersystum.github.io/calculater/index.html",
-    "main.7c45c9f7.css.map": "/http//:powersystum.github.io/calculater/static/css/main.7c45c9f7.css.map",
-    "main.c678e687.js.map": "/http//:powersystum.github.io/calculater/static/js/main.c678e687.js.map",
-    "787.1937f22b.chunk.js.map": "/http//:powersystum.github.io/calculater/static/js/787.1937f22b.chunk.js.map"
+    "main.css": "/digycalculater/static/css/main.7c45c9f7.css",
+    "main.js": "/digycalculater/static/js/main.aa77c01d.js",
+    "static/js/787.1937f22b.chunk.js": "/digycalculater/static/js/787.1937f22b.chunk.js",
+    "index.html": "/digycalculater/index.html",
+    "main.7c45c9f7.css.map": "/digycalculater/static/css/main.7c45c9f7.css.map",
+    "main.aa77c01d.js.map": "/digycalculater/static/js/main.aa77c01d.js.map",
+    "787.1937f22b.chunk.js.map": "/digycalculater/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c45c9f7.css",
-    "static/js/main.c678e687.js"
+    "static/js/main.aa77c01d.js"
   ]
 }
